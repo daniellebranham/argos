@@ -1,0 +1,10 @@
+User Requirements - Increment 1
+///	Functional Requirements \\\
+1. User shall be able to manipulate game window, like any other app.
+2. There shall be a full deck of cards and an empty discard pile at the beginning of the game.
+3. User shall be able to click on the deck of cards to turn a card over face-up onto the discard pile.
+4. The card deck should be random each time the user loads the app.
+/// Non-functional Requirements \\\
+1. Java shall be used as the development language
+2. Scrum shall be used as the primary development process
+3. Each card shall be represented in the deck once and only once, except for Jokers.
