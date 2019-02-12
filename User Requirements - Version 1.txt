@@ -4,6 +4,8 @@ User Requirements - Increment 1
 2. There shall be a full deck of cards and an empty discard pile at the beginning of the game.
 3. User shall be able to click on the deck of cards to turn a card over face-up onto the discard pile.
 4. The card deck should be random each time the user loads the app.
+5. Each card shall show its value in a place that is visible when cards are stacked on one another.
+6. Each card should show its value and suit in the top-left and bottom-right corners, as well as the center 
 /// Non-functional Requirements \\\
 1. Java shall be used as the development language
 2. Scrum shall be used as the primary development process
